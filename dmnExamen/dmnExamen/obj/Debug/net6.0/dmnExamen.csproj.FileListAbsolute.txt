@@ -1,0 +1,14 @@
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\bin\Debug\net6.0\dmnExamen.exe
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\bin\Debug\net6.0\dmnExamen.deps.json
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\bin\Debug\net6.0\dmnExamen.runtimeconfig.json
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\bin\Debug\net6.0\dmnExamen.dll
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\bin\Debug\net6.0\dmnExamen.pdb
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.AssemblyInfoInputs.cache
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.AssemblyInfo.cs
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.csproj.CoreCompileInputs.cache
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.dll
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\refint\dmnExamen.dll
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.pdb
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\dmnExamen.genruntimeconfig.cache
+C:\Users\dmelnez\source\repos\dmnExamen\dmnExamen\obj\Debug\net6.0\ref\dmnExamen.dll
